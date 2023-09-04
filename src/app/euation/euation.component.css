@@ -1,0 +1,25 @@
+.field{
+    margin: 20px;
+
+
+}
+.input{
+    width: 20vw;
+    margin-left: 20px;
+    box-sizing: border-box;
+}
+
+span{
+  margin: 10px;
+color: aqua;
+margin-left: 25px;
+
+ 
+}
+.container{
+    height: 100vh;
+    background-color:#c57e53
+}
+.close{
+    background-color: rgb(93, 202, 66);
+}
